@@ -2,8 +2,8 @@ Hypercoin wallet
 ================
 Core wallet
 ----------------
-[Linux][Windows][MacOS][Web Wallet]
+[Linux][Windows][MacOS]
 
 Lightweight wallet
 ----------------
-[Linux][Windows][MacOS][Android]
+[Third Party][Web Wallet][Android]
